@@ -1,4 +1,5 @@
 Airline Management System (DBMS Project)
+
 This project is a SQL-based Airline Management System that enables efficient handling of airline operations including passenger management, admin operations, and airline details. It features a web-based front-end interface using HTML and PHP, backed by a MySQL database.
 
 📂 Project Structure
